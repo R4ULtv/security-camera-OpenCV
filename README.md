@@ -1,2 +1,1 @@
-# Security-Camera-OpenCV
-Security Camera System Using OpenCV
+# Security Camera OpenCV
