@@ -18,7 +18,7 @@ pip install cv2
 
 ## 📺 Demo
 <!-- Add a Screenshot/GIF showing the sample use of the script (jpeg/png/gif). -->
-<img src="https://code.visualstudio.com/assets/docs/python/tutorial/intellisense01.png" />
+<img src="https://www.domsoria.com/wp-content/uploads/2020/04/opencv.png" />
 
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
